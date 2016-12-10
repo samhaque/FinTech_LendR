@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_fe0ab84732a9dfadbbf93990e67fad9ca2eef6c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_b52a0991c65470f9f4c7100583276046eb4ce72e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dima\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f41adbc68a2d16e66bf800ae7bf3ea14b765f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_43839d94b0aa8b8037a457f8a3e8ee11f6c966f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f9133dc929da5d10e160ed4e095d20594ec72155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_0891bf18f3d117a3e1147de0ecf512bb131cc420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_94915192793b0365e7fdc34c7097951cb14bd1c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="acc23e9bdd71e0de1363550f9686c45e302866b5">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b612fdc644f3c1c93f6fd7ac5191a61842f13177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_020f17a46202128d6f1450f51b0756bed7ef2304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2d6eb7c67e35b05a232d309d1a81b9d235705a4">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_99123596ce3fd51125fee6d3aa17695f88642252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android projects\BuddyLending\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Android projects\BuddyLending\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_aa696cbf98fdda9af3b72c9c72404d431af20de0\classes.dex" />
+    </item>
+
+</items>

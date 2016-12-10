@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#4CAF50"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+
+    <TextView
+        android:text="Current balance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/textView_balance" />
+
+    <TextView
+        android:text="$0.00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/textView_balance_receiver" />
+
+    <ImageView android:layout_width="140dp"
+        android:id="@+id/imageView1"
+        android:src="@drawable/ic_group_black_24dp1"
+        android:layout_height="140dp"
+        android:scaleType="centerInside"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:text="Money requested"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/textView_amount_requested"
+        android:text="$0.00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/textView_user_karma"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/upVotesRequest"
+            android:textSize="36sp"
+            android:textColor="#FFFFFF"
+            android:gravity="center_vertical|right"
+            android:paddingRight="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/downVotesRequest"
+            android:textSize="36sp"
+            android:textColor="#FF3F3F"
+            android:gravity="start|center_vertical"
+            android:paddingLeft="20dp"/>
+    </LinearLayout>
+
+    <Button
+        android:text="Confirm Transaction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight= "10dp"
+        android:id="@+id/button_confirm_transaction"
+        android:visibility="invisible"
+        android:background="#FFFFFF"
+        android:onClick="onTransactionConfirmed"/>
+</LinearLayout>
